@@ -8,7 +8,7 @@ The app supports **user authentication**, **task CRUD operations**, and is **ful
 ## Live Demo
 
 - **Frontend (Netlify)**:  
-  https://earnest-fintech-assignment1.netlify.app
+  https://earnest-fintech-assignment.netlify.app/
 
 - **Backend (Render)**:  
   https://earnest-fintech-assignment.onrender.com
